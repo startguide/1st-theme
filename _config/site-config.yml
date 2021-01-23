@@ -1,0 +1,10 @@
+name: startguide
+# サイトの名前
+site-img: media/logos.png
+# サイトのロゴ
+site-ex: our site is every where
+# サイトの説明
+site-owner: yamano
+# サイトのowner
+site-url: https://startguide.jp
+# サイトのurl
